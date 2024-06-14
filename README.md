@@ -1,4 +1,4 @@
-# DeepFaceGen: A Large-scale Universal Data Evaluation Benchmark For Face Forgery Detection
+# DeepFaceGen: A Large-scale Universal Evaluation Benchmark For Face Forgery Detection
 ## Dataset Construction
 
 ```
