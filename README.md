@@ -67,7 +67,7 @@ DeepFaceGen consists of **776, 990** real face image/video samples and **773, 81
    - **Video Real Subsets (313,407 videos)**
    - **Video Forged Subsets (423,548 videos)**
 
-The complete dataset can be downloaded at [this link](https://openxlab.org.cn/datasets/hengrui/DeepFaceGen)
+The complete dataset can be downloaded at [this link](https://openxlab.org.cn/datasets/hengrui/DeepFaceGen).
 ## Benchmark
 For code reproducibility, we conducted a comprehensive benchmark performance evaluation using mainstream face forgery detection techniques. All the code is sourced from the following github projects. 
 - **[DASH-Lab/FakeAVCeleb](https://github.com/DASH-Lab/FakeAVCeleb)**, they provide executable code for MesoNet, EfficientNet-B0, Xception, and F3-Net.
