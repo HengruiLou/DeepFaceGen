@@ -2,14 +2,14 @@
 ## Dataset Construction
 
 ```
-image real subsets 
+Image Real Subsets 
 ├── Celeb-DF
 │   ├── *.png
 ├── ForgeryNet
 │   ├── *.jpg
 ├── real_image_labels_relative.csv (It contains the file paths of all the image-level real samples in the dataset)
 
-image forged subsets (27 mainstream face generation techniques)
+Image Forged Subsets (27 mainstream face generation techniques)
 ├── SD1
 │   ├── output_0.png
 │   ├──...
@@ -27,7 +27,7 @@ image forged subsets (27 mainstream face generation techniques)
 ├── t2i_image_labels_relative.csv (It contains the file paths of all the text2image forged samples in the dataset)
 ├── tra_image_labels_relative.csv (It contains the file paths of all the localized editing-based forged samples in the dataset)
 
-video real subsets 
+Video Real Subsets 
 ├── CMLR
 │   ├── *.mp4
 ├── ForgeryNet
@@ -38,7 +38,7 @@ video real subsets
 │   ├── *.mp4
 ├── real_video_labels_relative.csv (It contains the file paths of all the video-level real samples in the dataset)
 
-video forged subsets (16 mainstream face generation techniques)
+Video Forged Subsets (16 mainstream face generation techniques)
 ├── Animatediff-rs
 │   ├── output_0.mp4
 │   ├──...
