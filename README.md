@@ -68,6 +68,9 @@ DeepFaceGen consists of **776, 990** real face image/video samples and **773, 81
 ## Benchmark
 For code reproducibility, we conducted a comprehensive benchmark performance evaluation using **13** mainstream face forgery detection techniques. All the code is sourced from the following github projects. 
 - **[DASH-Lab/FakeAVCeleb](https://github.com/DASH-Lab/FakeAVCeleb)**, they provide executable code for MesoNet, EfficientNet-B0, Xception, and F3-Net at the video-level.
+- **[erprogs/CViT](https://github.com/erprogs/CViT)**, they provide executable code for CViT at the video-level.
+- **[liangchen527/SLADD](https://github.com/liangchen527/SLADD)**, they provide executable code for SLADD at the video-level.
+- **[QingyuLiu/Exposing-the-Deception](https://github.com/QingyuLiu/Exposing-the-Deception)**, they provide executable code for Exposing at the video-level.
 
 
 Thank you for your contributions to this project and the field!
