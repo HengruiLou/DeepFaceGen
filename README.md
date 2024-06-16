@@ -67,6 +67,7 @@ DeepFaceGen consists of **776, 990** real face image/video samples and **773, 81
      - Baiduyun: [this link](https://pan.baidu.com/s/1DqKtDQBw20dd9Ry1gzkTXg), code: 6666
 ## Benchmark
 For code reproducibility, we conducted a comprehensive benchmark performance evaluation using **13** mainstream face forgery detection techniques. All the code is sourced from the following github projects. 
-Thanks for [DASH-Lab/FakeAVCeleb](https://github.com/DASH-Lab/FakeAVCeleb),[CV-IP/VFD](https://github.com/CV-IP/VFD),[abhinavdhall/deepfake](https://github.com/abhinavdhall/deepfake) and [SYSU-DISG/AVoiD-DF](https://github.com/SYSU-DISG/AVoiD-DF)!
+-[DASH-Lab/FakeAVCeleb](https://github.com/DASH-Lab/FakeAVCeleb), they provide executable code for MesoNet, EfficientNet-B0, Xception, and F3-Net at the video-level.
+[CV-IP/VFD](https://github.com/CV-IP/VFD),[abhinavdhall/deepfake](https://github.com/abhinavdhall/deepfake) and [SYSU-DISG/AVoiD-DF](https://github.com/SYSU-DISG/AVoiD-DF)!
 
 Thank you for your contributions to this project and the field!
