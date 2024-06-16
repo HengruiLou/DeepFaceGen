@@ -61,15 +61,12 @@ Video Forged Subsets (16 mainstream face generation techniques)
 </p>
 
 ## Download Data
-DeepFaceGen consists of **776, 990** real face image/video samples and **773, 812** face forgery image/video samples. The complete dataset is obtained as follows.
+DeepFaceGen consists of **776, 990** real face image/video samples and **773, 812** face forgery image/video samples. The dataset contains the following four parts.
    - **[Image Real Subsets]**
-     - Baiduyun: [this link](), code: 6666
    - **[Image Forged Subsets]**
-     - Baiduyun: [this link](), code: 6666
    - **[Video Real Subsets]**
-     - Baiduyun: [this link](), code: 6666
    - **[Video Forged Subsets]**
-     - Baiduyun: [this link](), code: 6666
+The complete dataset can be downloaded at [this link](https://openxlab.org.cn/datasets/hengrui/DeepFaceGen)
 ## Benchmark
 For code reproducibility, we conducted a comprehensive benchmark performance evaluation using mainstream face forgery detection techniques. All the code is sourced from the following github projects. 
 - **[DASH-Lab/FakeAVCeleb](https://github.com/DASH-Lab/FakeAVCeleb)**, they provide executable code for MesoNet, EfficientNet-B0, Xception, and F3-Net.
