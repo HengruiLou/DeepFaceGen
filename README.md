@@ -62,10 +62,11 @@ Video Forged Subsets (16 mainstream face generation techniques)
 
 ## Download Data
 DeepFaceGen consists of **776, 990** real face image/video samples and **773, 812** face forgery image/video samples. The dataset contains the following four parts.
-   - **[Image Real Subsets]**
-   - **[Image Forged Subsets]**
-   - **[Video Real Subsets]**
-   - **[Video Forged Subsets]**
+   - **Image Real Subsets (463,583 images)**
+   - **Image Forged Subsets (350,264 images)**
+   - **Video Real Subsets (313,407 videos)**
+   - **Video Forged Subsets (423,548 videos)**
+
 The complete dataset can be downloaded at [this link](https://openxlab.org.cn/datasets/hengrui/DeepFaceGen)
 ## Benchmark
 For code reproducibility, we conducted a comprehensive benchmark performance evaluation using mainstream face forgery detection techniques. All the code is sourced from the following github projects. 
