@@ -55,6 +55,10 @@ Video Forged Subsets (16 mainstream face generation techniques)
 ├── t2v_video_labels_relative.csv (It contains the file paths of all the text2video forged samples in the dataset.)
 ├── tra_video_labels_relative.csv (It contains the file paths of all the localized editing-based forged samples in the dataset.)
 ```
+<p align="center"> 
+<img src="Composition.png">
+</p>
+
 ## Download Data
 DeepFaceGen consists of **776, 990** real face image/video samples and **773, 812** face forgery image/video samples. The complete dataset is obtained as follows.
    - **[Image Real Subsets]**
