@@ -11,7 +11,7 @@ Image Real Subsets
 │   ├── *.png
 ├── ForgeryNet
 │   ├── *.jpg
-├── real_image_labels_relative.csv (It contains the file paths of all the image-level real samples in the dataset)
+├── real_image_labels_relative.csv (It contains the file paths of all the image-level real samples in the dataset.)
 
 Image Forged Subsets (27 mainstream face generation techniques)
 ├── SD1
@@ -27,9 +27,9 @@ Image Forged Subsets (27 mainstream face generation techniques)
 │   ├── fake00001.png
 │   ├──...
 │   ├── fake10000.png
-├── i2i_image_labels_relative.csv (It contains the file paths of all the image2image forged samples in the dataset)
-├── t2i_image_labels_relative.csv (It contains the file paths of all the text2image forged samples in the dataset)
-├── tra_image_labels_relative.csv (It contains the file paths of all the localized editing-based forged samples in the dataset)
+├── i2i_image_labels_relative.csv (It contains the file paths of all the image2image forged samples in the dataset.)
+├── t2i_image_labels_relative.csv (It contains the file paths of all the text2image forged samples in the dataset.)
+├── tra_image_labels_relative.csv (It contains the file paths of all the localized editing-based forged samples in the dataset.)
 
 Video Real Subsets 
 ├── CMLR
@@ -40,7 +40,7 @@ Video Real Subsets
 │   ├── *.mp4
 ├── CN-CVS
 │   ├── *.mp4
-├── real_video_labels_relative.csv (It contains the file paths of all the video-level real samples in the dataset)
+├── real_video_labels_relative.csv (It contains the file paths of all the video-level real samples in the dataset.)
 
 Video Forged Subsets (16 mainstream face generation techniques)
 ├── Animatediff-rs
@@ -52,25 +52,26 @@ Video Forged Subsets (16 mainstream face generation techniques)
 │   ├──...
 │   ├── Output078721.mp4
 ├──...
-├── t2v_video_labels_relative.csv (It contains the file paths of all the text2video forged samples in the dataset)
-├── tra_video_labels_relative.csv (It contains the file paths of all the localized editing-based forged samples in the dataset)
+├── t2v_video_labels_relative.csv (It contains the file paths of all the text2video forged samples in the dataset.)
+├── tra_video_labels_relative.csv (It contains the file paths of all the localized editing-based forged samples in the dataset.)
 ```
 ## Download Data
 DeepFaceGen consists of **776, 990** real face image/video samples and **773, 812** face forgery image/video samples. The complete dataset is obtained as follows.
    - **[Image Real Subsets]**
-     - Baiduyun: [this link](https://pan.baidu.com/s/1DqKtDQBw20dd9Ry1gzkTXg), code: 6666
+     - Baiduyun: [this link](), code: 6666
    - **[Image Forged Subsets]**
-     - Baiduyun: [this link](https://pan.baidu.com/s/1DqKtDQBw20dd9Ry1gzkTXg), code: 6666
+     - Baiduyun: [this link](), code: 6666
    - **[Video Real Subsets]**
-     - Baiduyun: [this link](https://pan.baidu.com/s/1DqKtDQBw20dd9Ry1gzkTXg), code: 6666
+     - Baiduyun: [this link](), code: 6666
    - **[Video Forged Subsets]**
-     - Baiduyun: [this link](https://pan.baidu.com/s/1DqKtDQBw20dd9Ry1gzkTXg), code: 6666
+     - Baiduyun: [this link](), code: 6666
 ## Benchmark
-For code reproducibility, we conducted a comprehensive benchmark performance evaluation using **13** mainstream face forgery detection techniques. All the code is sourced from the following github projects. 
-- **[DASH-Lab/FakeAVCeleb](https://github.com/DASH-Lab/FakeAVCeleb)**, they provide executable code for MesoNet, EfficientNet-B0, Xception, and F3-Net at the video-level.
-- **[erprogs/CViT](https://github.com/erprogs/CViT)**, they provide executable code for CViT at the video-level.
-- **[liangchen527/SLADD](https://github.com/liangchen527/SLADD)**, they provide executable code for SLADD at the video-level.
-- **[QingyuLiu/Exposing-the-Deception](https://github.com/QingyuLiu/Exposing-the-Deception)**, they provide executable code for Exposing at the video-level.
-
-
+For code reproducibility, we conducted a comprehensive benchmark performance evaluation using mainstream face forgery detection techniques. All the code is sourced from the following github projects. 
+- **[DASH-Lab/FakeAVCeleb](https://github.com/DASH-Lab/FakeAVCeleb)**, they provide executable code for MesoNet, EfficientNet-B0, Xception, and F3-Net.
+- **[erprogs/CViT](https://github.com/erprogs/CViT)**, they provide executable code for CViT.
+- **[liangchen527/SLADD](https://github.com/liangchen527/SLADD)**, they provide executable code for SLADD.
+- **[QingyuLiu/Exposing-the-Deception](https://github.com/QingyuLiu/Exposing-the-Deception)**, they provide executable code for Exposing.
+- **[yyk-wew/F3Net](https://github.com/yyk-wew/F3Net/tree/main)**, they provide executable code for F3-Net at the image-level.
+- **[VISION-SJTU/RECCE](https://github.com/VISION-SJTU/RECCE)**, they provide executable code for RECCE.
+- **[ICTMCG/DNA-Det](https://github.com/ICTMCG/DNA-Det)**, they provide executable code for DNAnet.
 Thank you for your contributions to this project and the field!
