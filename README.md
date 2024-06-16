@@ -81,3 +81,5 @@ For code reproducibility, we conducted a comprehensive benchmark performance eva
 - **[ICTMCG/DNA-Det](https://github.com/ICTMCG/DNA-Det)**, they provide executable code for DNAnet.
   
 Thank them for their contributions to this project and the field !
+## License
+The use of this project is RESTRICTED to Creative Commons Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0). More details about the license could be found in [LICENSE](https://creativecommons.org/licenses/by-nc/4.0/).
