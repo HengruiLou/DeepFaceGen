@@ -22,7 +22,7 @@ Image Real Subsets
 ├── real_image_labels_relative.csv (It contains the file paths of the image-level real samples in the dataset except for the added celebA-HQ.)
 ├── real_celebA-HQ_labels_relative.csv (celebA-HQ is the newly added data. It contains the file paths of celebA-HQ samples.)
 
-Image Forged Subsets (27 mainstream face generation techniques)
+Image Forged Subsets 
 ├── SD1
 │   ├── output_0.png
 │   ├──...
@@ -51,7 +51,7 @@ Video Real Subsets
 │   ├── *.mp4
 ├── real_video_labels_relative.csv (It contains the file paths of all the video-level real samples in the dataset.)
 
-Video Forged Subsets (16 mainstream face generation techniques)
+Video Forged Subsets 
 ├── Animatediff-rs
 │   ├── output_0.mp4
 │   ├──...
@@ -70,10 +70,10 @@ Video Forged Subsets (16 mainstream face generation techniques)
 
 ## Download Data
 DeepFaceGen consists of **776, 990** real face image/video samples and **773, 812** face forgery image/video samples. The dataset contains the following four parts.
-   - **Image Real Subsets (463,583 images)**
-   - **Image Forged Subsets (350,264 images)**
-   - **Video Real Subsets (313,407 videos)**
-   - **Video Forged Subsets (423,548 videos)**
+   - **Image Real Subsets (It is composed of Celeb-DF and ForgeryNet.)**
+   - **Image Forged Subsets (It is composed of 27 categories generating by mainstream face generation techniques.)**
+   - **Video Real Subsets (It is composed of CMLR, ForgeryNet, Celeb-DF and CN-CVS.)**
+   - **Video Forged Subsets (It is composed of 16 categories generating by mainstream face generation techniques.)**
 
 The complete dataset can be downloaded at [this link](https://openxlab.org.cn/datasets/hengrui/DeepFaceGen).
 ## Benchmark
