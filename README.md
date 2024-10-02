@@ -84,8 +84,12 @@ For code reproducibility, we conducted a comprehensive benchmark performance eva
 - **[QingyuLiu/Exposing-the-Deception](https://github.com/QingyuLiu/Exposing-the-Deception)**, they provide executable code for Exposing.
 - **[yyk-wew/F3Net](https://github.com/yyk-wew/F3Net/tree/main)**, they provide executable code for F3-Net at the image-level.
 - **[VISION-SJTU/RECCE](https://github.com/VISION-SJTU/RECCE)**, they provide executable code for RECCE.
-- **[ICTMCG/DNA-Det](https://github.com/ICTMCG/DNA-Det)**, they provide executable code for DNAnet.
-  
+- **[ICTMCG/DNA-Det](https://github.com/ICTMCG/DNA-Det)**, they provide executable code for DNDnet.
+- **[SCLBD/DeepfakeBench](https://github.com/sclbd/deepfakebench)**, they provide executable code for LSDA and TALL.
+- **[ZhendongWang6/AltFreezing](https://github.com/ZhendongWang6/AltFreezing)**, they provide executable code for AltFreezing.
+- **[ZhendongWang6/DIRE](https://github.com/ZhendongWang6/DIRE)**, they provide executable code for DIRE.
+- **[beibuwandeluori/DRCT](https://github.com/beibuwandeluori/DRCT)**, they provide executable code for DRCT.
+- **[chuangchuangtan/NPR-DeepfakeDetection](https://github.com/chuangchuangtan/NPR-DeepfakeDetection)**, they provide executable code for NPR.
 Thank them for their contributions to this project and the field !
 ## License
 The use of this project is RESTRICTED to Creative Commons Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0). More details about the license could be found in [LICENSE](https://creativecommons.org/licenses/by-nc/4.0/).
