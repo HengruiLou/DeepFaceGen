@@ -7,7 +7,7 @@
 
 
 >  ❗️❗️❗️ **News:**
->  **NEW DATA**: We have continuously updated the **DeepSeek Janus-Pro** face generation dataset. The design of prompt instructions follows the processing pipeline outlined in [Pipeline of Prompts Construction](./app3.jpg). After applying **skin tone balancing** and removing **low-quality data**, we have synchronized **18,218 DeepSeek Janus-Pro samples** to [this link](https://openxlab.org.cn/datasets/hengrui/DeepFaceGen).
+>  **NEW DATA**: We have continuously updated the **DeepSeek Janus-Pro** face generation dataset. The design of prompt instructions follows the processing pipeline outlined in [Pipeline of Prompts Construction](./app3.jpg). After applying **skin tone balancing** and removing **low-quality data**, we have synchronized **18,218 DeepSeek Janus-Pro samples** to [this link](https://openxlab.org.cn/datasets/hengrui/DeepFaceGen/tree/main/Image_Forged_Sample).
 The experimental results for **Train on All and Test on All** and **Train on One and Test on All** are presented in the table below.
 
 >### Train on One and Test on All (AUC,%)
