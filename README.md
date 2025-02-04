@@ -7,7 +7,7 @@
 
 
 >  ❗️❗️❗️ **News:**
-> 1. **NEW DATA**: We have continuously updated the **DeepSeek Janus-Pro** face generation dataset. The design of prompt instructions follows the processing pipeline outlined in [Pipeline of Prompts Construction](https://arxiv.org/abs/2411.15633). 
+> 1. **NEW DATA**: We have continuously updated the **DeepSeek Janus-Pro** face generation dataset. The design of prompt instructions follows the processing pipeline outlined in [Pipeline of Prompts Construction](./app3.jpg). 
 
 After applying **skin tone balancing** and removing **low-quality data**, we have synchronized **10,000 DeepSeek Janus-Pro samples** to [this link](https://openxlab.org.cn/datasets/hengrui/DeepFaceGen).
 
