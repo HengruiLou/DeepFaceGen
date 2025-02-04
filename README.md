@@ -7,28 +7,24 @@
 
 
 >  ❗️❗️❗️ **News:**
-> 1. **NEW DATA**: We have continuously updated the **DeepSeek Janus-Pro** face generation dataset. The design of prompt instructions follows the processing pipeline outlined in [Pipeline of Prompts Construction](./app3.jpg). 
-
-After applying **skin tone balancing** and removing **low-quality data**, we have synchronized **18,218 DeepSeek Janus-Pro samples** to [this link](https://openxlab.org.cn/datasets/hengrui/DeepFaceGen).
-
+>  **NEW DATA**: We have continuously updated the **DeepSeek Janus-Pro** face generation dataset. The design of prompt instructions follows the processing pipeline outlined in [Pipeline of Prompts Construction](./app3.jpg). After applying **skin tone balancing** and removing **low-quality data**, we have synchronized **18,218 DeepSeek Janus-Pro samples** to [this link](https://openxlab.org.cn/datasets/hengrui/DeepFaceGen).
 The experimental results for **Train on All and Test on All** and **Train on One and Test on All** are presented in the table below.
 
-### Train on One and Test on All (AUC,%)
-
-| Model              | Xception | EN-B0  | F3-Net | RECCE | DNADet | DIRE  | UnivFD | FreqNet | DRCT  | NPR   |
-|--------------------|----------|--------|--------|-------|--------|-------|--------|---------|-------|-------|
-| DeepSeek Janus-Pro | 82.06    | 67.88  | 84.60  | 88.93 | 83.21  | 84.62 | 85.55  | 80.61   | 90.01 | 89.43 |
-
----
-
-### Train on All and Test on All (AUC,%)
-
-| Model              | Xception | DRCT   | F3-Net | UnivFD | RECCE | FreqNet | EN-B0  | DIRE  | DNADet | NPR   |
-|--------------------|----------|--------|--------|--------|-------|---------|--------|-------|--------|-------|
-| DeepSeek Janus-Pro | 86.74    | 80.40  | 86.71  | 97.63  | 92.00 | 92.40   | 87.42  | 91.44 | 92.45  | 93.60 |
+>### Train on One and Test on All (AUC,%)
+>
+>| Model              | Xception | EN-B0  | F3-Net | RECCE | DNADet | DIRE  | UnivFD | FreqNet | DRCT  | NPR   |
+>|--------------------|----------|--------|--------|-------|--------|-------|--------|---------|-------|-------|
+>| DeepSeek Janus-Pro | 82.06    | 67.88  | 84.60  | 88.93 | 83.21  | 84.62 | 85.55  | 80.61   | 90.01 | 89.43 |
 
 
-> 
+>### Train on All and Test on All (AUC,%)
+>
+>| Model              | Xception | DRCT   | F3-Net | UnivFD | RECCE | FreqNet | EN-B0  | DIRE  | DNADet | NPR   |
+>|--------------------|----------|--------|--------|--------|-------|---------|--------|-------|--------|-------|
+>| DeepSeek Janus-Pro | 86.74    | 80.40  | 86.71  | 97.63  | 92.00 | 92.40   | 87.42  | 91.44 | 92.45  | 93.60 |
+
+
+
 
 
 ## Dataset Construction
