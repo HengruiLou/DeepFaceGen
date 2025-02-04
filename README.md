@@ -5,6 +5,22 @@
 <img src="Composition.png">
 </p>
 
+
+>  ❗️❗️❗️ **News:**
+> 1. **NEW DATA**: We have continuously updated the **DeepSeek Janus-Pro** face generation dataset. The design of prompt instructions follows the processing pipeline outlined in [Pipeline of Prompts Construction](https://arxiv.org/abs/2411.15633). 
+
+After applying **skin tone balancing** and removing **low-quality data**, we have synchronized **10,000 DeepSeek Janus-Pro samples** to [this link](https://openxlab.org.cn/datasets/hengrui/DeepFaceGen).
+
+The experimental results for **Train on All and Test on All** and **Train on One and Test on All** are presented in the table below.
+
+| **Experiment Setting**       | **Accuracy (%)** | **Precision (%)** | **Recall (%)** | **F1-Score (%)** |
+|:-----------------------------|:-----------------|:------------------|:---------------|:-----------------|
+| Train on All, Test on All    | *[Insert Value]* | *[Insert Value]*  | *[Insert Value]* | *[Insert Value]* |
+| Train on One, Test on All    | *[Insert Value]* | *[Insert Value]*  | *[Insert Value]* | *[Insert Value]* |
+
+> 
+
+
 ## Dataset Construction
 ```
 Image Real Subsets 
